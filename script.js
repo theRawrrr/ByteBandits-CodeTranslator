@@ -1,5 +1,5 @@
-const apiKey="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";
-const url="https://api.openai.com/v1/chat/completions" ;
+const apiKey="AIzaSyB-4-RvUL114RSI6FI0E3n3TxubloRlcJA";
+const url="https://us-central1-aiplatform.googleapis.com/v1/projects/evident-torus-352511/locations/us-central1/publishers/google/models/gemini-1.0-pro:streamGenerateContent" ;
 
 //copy code
 const copyButton = document.getElementById("copyButton");
